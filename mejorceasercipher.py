@@ -22,4 +22,6 @@ def cipher_now(cipher, step):
         pos = abc.index(i)
 
 
-abclist =
+abclist = []
+
+#TRY TWO
