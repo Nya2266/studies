@@ -23,5 +23,6 @@ def cipher_now(cipher, step):
 
 
 abclist = []
+print("Teste")
 
 #TRY TWO
